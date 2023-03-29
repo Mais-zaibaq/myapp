@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">first project</string>
+    <string name="vv">ينصح بتناولها بكميات بسيطة وليس بشكل يومي لتحصل على فوائدهاالتي تساعد على تهدئة الاعصاب والشعور بالاسترخاء كما انها تعد بمثابة وجبة غذائية متكاملة </string>
+    <string name="cc">كب كيك</string>
+    <string name="ll">كوب طحين</string>
+    <string name="l">كوب حليب جاف</string>
+    <string name="m1">كوب سمنة</string>
+    <string name="m2">كيس دريم ويب</string>
+    <string name="m3">الطريقة</string>
+    <string name="m4">خلط المواد مع بعضها البعض ثم نتركهالمدة لاتقل عن ساعة حتى ترتاح وبعد ذلك نقوم بتقطيع العجينة ومن ثم القلي وبالنهاية تزين حسب الرغبة</string>
+</resources>
